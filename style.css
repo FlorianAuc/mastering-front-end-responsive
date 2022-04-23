@@ -9,6 +9,12 @@
 li {
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
 p {
   font-size: 0.8rem;
 }
@@ -56,6 +62,7 @@ button {
   border: none;
   background: #474dff;
   color: white;
+  cursor: pointer;
   width: 150px;
   padding: 10px 0;
   border-radius: 10px;
@@ -63,6 +70,16 @@ button {
   letter-spacing: 1px;
   margin: 5px;
   display: block;
+  transition: 0.5s;
+}
+
+button:hover {
+  color: black;
+  background: white;
+}
+
+button:active {
+  transform: scale(0.9);
 }
 .investors {
   display: flex;
