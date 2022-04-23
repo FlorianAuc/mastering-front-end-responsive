@@ -23,7 +23,7 @@
 ![helium-maquette-mobile](https://user-images.githubusercontent.com/98493546/164943179-cefda0e2-03f4-4c6e-ba53-c30ca637724d.png)
 
 
-#My project
+### My project
 
 URL:https://florianauc.github.io/mastering-front-end-responsive/
 
